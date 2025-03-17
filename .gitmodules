@@ -1,0 +1,3 @@
+[submodule "loal-repo"]
+	path = loal-repo
+	url = https://github.com/suryansh956500/local-repo.git
